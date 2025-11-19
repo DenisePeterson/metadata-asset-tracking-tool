@@ -1,10 +1,10 @@
 # Title
 
-Tax Entities 2024
+Tax Entities
 
 ## ID
 
-8c8a52eb-1097-48a7-b839-29e6f7bbe6e0
+31ec131d-d0e8-47ef-99ca-ab76aa9338a1
 
 ## Brief Summary
 
@@ -12,7 +12,7 @@ Polygon dataset of public entities responsible for collecting taxes to fund loca
 
 ## Summary
 
-Polygon dataset of tax entities in Utah as of 2024. This dataset includes general administrative boundaries for tax entities only and does not include information about current tax laws, rates, or deadlines.
+Polygon dataset of tax entities in Utah as of 2025. This dataset includes general administrative boundaries for tax entities only and does not include information about current tax laws, rates, or deadlines.
 
 ## Description
 
@@ -22,7 +22,7 @@ This dataset includes all incorporated bodies that have the power to levy a loca
 
 ### What is the purpose of the dataset?
 
-These data were created for display and analysis of Utah tax entities for the 2024 calendar year.
+These data were created for display and analysis of Utah tax entities for the 2025 calendar year.
 
 ### What does the dataset represent?
 
